@@ -1,0 +1,58 @@
+C:\Users\Admin\source\repos\QuanLiDoanVienTruongDHDN\QuanLiDoanVienTruongDHDN\bin\Debug\QuanLiDoanVienTruongDHDN.exe.config
+C:\Users\Admin\source\repos\QuanLiDoanVienTruongDHDN\QuanLiDoanVienTruongDHDN\bin\Debug\QuanLiDoanVienTruongDHDN.exe
+C:\Users\Admin\source\repos\QuanLiDoanVienTruongDHDN\QuanLiDoanVienTruongDHDN\bin\Debug\QuanLiDoanVienTruongDHDN.pdb
+C:\Users\Admin\source\repos\QuanLiDoanVienTruongDHDN\QuanLiDoanVienTruongDHDN\obj\Debug\QuanLiDoanVienTruongDHDN.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\QuanLiDoanVienTruongDHDN\QuanLiDoanVienTruongDHDN\obj\Debug\QuanLiDoanVienTruongDHDN.Properties.Resources.resources
+C:\Users\Admin\source\repos\QuanLiDoanVienTruongDHDN\QuanLiDoanVienTruongDHDN\obj\Debug\QuanLiDoanVienTruongDHDN.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\QuanLiDoanVienTruongDHDN\QuanLiDoanVienTruongDHDN\obj\Debug\QuanLiDoanVienTruongDHDN.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\QuanLiDoanVienTruongDHDN\QuanLiDoanVienTruongDHDN\obj\Debug\QuanLiDoanVienTruongDHDN.exe
+C:\Users\Admin\source\repos\QuanLiDoanVienTruongDHDN\QuanLiDoanVienTruongDHDN\obj\Debug\QuanLiDoanVienTruongDHDN.pdb
+C:\Users\Admin\source\repos\QuanLiDoanVienTruongDHDN\QuanLiDoanVienTruongDHDN\obj\Debug\QuanLiDoanVienTruongDHDN.FormMain.resources
+C:\Users\Admin\source\repos\QuanLiDoanVienTruongDHDN\QuanLiDoanVienTruongDHDN\obj\Debug\QuanLiDoanVienTruongDHDN.SuKienForm.resources
+C:\Users\Admin\source\repos\QuanLiDoanVienTruongDHDN\QuanLiDoanVienTruongDHDN\obj\Debug\QuanLiDoanVienTruongDHDN.DanhSachBoSung.resources
+C:\Users\Admin\source\repos\QuanLiDoanVienTruongDHDN\QuanLiDoanVienTruongDHDN\obj\Debug\QuanLiDoanVienTruongDHDN.FormDangNhap.resources
+C:\Users\Admin\source\repos\QuanLiDoanVienTruongDHDN\QuanLiDoanVienTruongDHDN\obj\Debug\QuanLiDoanVienTruongDHDN.FormXepLoai.resources
+C:\Users\Admin\source\repos\QuanLiDoanVienTruongDHDN\QuanLiDoanVienTruongDHDN\obj\Debug\QuanLiDoanVienTruongDHDN.XeploaiDV.resources
+D:\QuanLiDoanVienTruongDHDN\QuanLiDoanVienTruongDHDN\obj\Debug\QuanLiDoanVienTruongDHDN.csproj.AssemblyReference.cache
+D:\QuanLiDoanVienTruongDHDN\QuanLiDoanVienTruongDHDN\obj\Debug\QuanLiDoanVienTruongDHDN.csproj.SuggestedBindingRedirects.cache
+D:\QuanLiDoanVienTruongDHDN\QuanLiDoanVienTruongDHDN\obj\Debug\QuanLiDoanVienTruongDHDN.DanhSachBoSung.resources
+D:\QuanLiDoanVienTruongDHDN\QuanLiDoanVienTruongDHDN\obj\Debug\QuanLiDoanVienTruongDHDN.FormDangNhap.resources
+D:\QuanLiDoanVienTruongDHDN\QuanLiDoanVienTruongDHDN\obj\Debug\QuanLiDoanVienTruongDHDN.FormMain.resources
+D:\QuanLiDoanVienTruongDHDN\QuanLiDoanVienTruongDHDN\obj\Debug\QuanLiDoanVienTruongDHDN.FormXepLoai.resources
+D:\QuanLiDoanVienTruongDHDN\QuanLiDoanVienTruongDHDN\obj\Debug\QuanLiDoanVienTruongDHDN.Properties.Resources.resources
+D:\QuanLiDoanVienTruongDHDN\QuanLiDoanVienTruongDHDN\obj\Debug\QuanLiDoanVienTruongDHDN.XeploaiDV.resources
+D:\QuanLiDoanVienTruongDHDN\QuanLiDoanVienTruongDHDN\obj\Debug\QuanLiDoanVienTruongDHDN.csproj.GenerateResource.cache
+D:\QuanLiDoanVienTruongDHDN\QuanLiDoanVienTruongDHDN\obj\Debug\QuanLiDoanVienTruongDHDN.csproj.CoreCompileInputs.cache
+D:\QuanLiDoanVienTruongDHDN\QuanLiDoanVienTruongDHDN\obj\Debug\QuanLiDoanVienTruongDHDN.exe
+D:\QuanLiDoanVienTruongDHDN\QuanLiDoanVienTruongDHDN\obj\Debug\QuanLiDoanVienTruongDHDN.pdb
+D:\QuanLiDoanVienTruongDHDN\QuanLiDoanVienTruongDHDN\bin\Debug\QuanLiDoanVienTruongDHDN.exe.config
+D:\QuanLiDoanVienTruongDHDN\QuanLiDoanVienTruongDHDN\bin\Debug\QuanLiDoanVienTruongDHDN.exe
+D:\QuanLiDoanVienTruongDHDN\QuanLiDoanVienTruongDHDN\bin\Debug\QuanLiDoanVienTruongDHDN.pdb
+D:\QuanLiDoanVienTruongDHDN (1)\QuanLiDoanVienTruongDHDN\bin\Debug\QuanLiDoanVienTruongDHDN.exe.config
+D:\QuanLiDoanVienTruongDHDN (1)\QuanLiDoanVienTruongDHDN\bin\Debug\QuanLiDoanVienTruongDHDN.exe
+D:\QuanLiDoanVienTruongDHDN (1)\QuanLiDoanVienTruongDHDN\bin\Debug\QuanLiDoanVienTruongDHDN.pdb
+D:\QuanLiDoanVienTruongDHDN (1)\QuanLiDoanVienTruongDHDN\obj\Debug\QuanLiDoanVienTruongDHDN.csproj.AssemblyReference.cache
+D:\QuanLiDoanVienTruongDHDN (1)\QuanLiDoanVienTruongDHDN\obj\Debug\QuanLiDoanVienTruongDHDN.DanhSachBoSung.resources
+D:\QuanLiDoanVienTruongDHDN (1)\QuanLiDoanVienTruongDHDN\obj\Debug\QuanLiDoanVienTruongDHDN.FormDangNhap.resources
+D:\QuanLiDoanVienTruongDHDN (1)\QuanLiDoanVienTruongDHDN\obj\Debug\QuanLiDoanVienTruongDHDN.FormMain.resources
+D:\QuanLiDoanVienTruongDHDN (1)\QuanLiDoanVienTruongDHDN\obj\Debug\QuanLiDoanVienTruongDHDN.FormXepLoai.resources
+D:\QuanLiDoanVienTruongDHDN (1)\QuanLiDoanVienTruongDHDN\obj\Debug\QuanLiDoanVienTruongDHDN.Properties.Resources.resources
+D:\QuanLiDoanVienTruongDHDN (1)\QuanLiDoanVienTruongDHDN\obj\Debug\QuanLiDoanVienTruongDHDN.XeploaiDV.resources
+D:\QuanLiDoanVienTruongDHDN (1)\QuanLiDoanVienTruongDHDN\obj\Debug\QuanLiDoanVienTruongDHDN.csproj.GenerateResource.cache
+D:\QuanLiDoanVienTruongDHDN (1)\QuanLiDoanVienTruongDHDN\obj\Debug\QuanLiDoanVienTruongDHDN.csproj.CoreCompileInputs.cache
+D:\QuanLiDoanVienTruongDHDN (1)\QuanLiDoanVienTruongDHDN\obj\Debug\QuanLiDoanVienTruongDHDN.exe
+D:\QuanLiDoanVienTruongDHDN (1)\QuanLiDoanVienTruongDHDN\obj\Debug\QuanLiDoanVienTruongDHDN.pdb
+C:\Users\Admin\Downloads\QuanLiDoanVienTruongDHDN (1)\QuanLiDoanVienTruongDHDN\bin\Debug\QuanLiDoanVienTruongDHDN.exe.config
+C:\Users\Admin\Downloads\QuanLiDoanVienTruongDHDN (1)\QuanLiDoanVienTruongDHDN\bin\Debug\QuanLiDoanVienTruongDHDN.exe
+C:\Users\Admin\Downloads\QuanLiDoanVienTruongDHDN (1)\QuanLiDoanVienTruongDHDN\bin\Debug\QuanLiDoanVienTruongDHDN.pdb
+C:\Users\Admin\Downloads\QuanLiDoanVienTruongDHDN (1)\QuanLiDoanVienTruongDHDN\obj\Debug\QuanLiDoanVienTruongDHDN.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\QuanLiDoanVienTruongDHDN (1)\QuanLiDoanVienTruongDHDN\obj\Debug\QuanLiDoanVienTruongDHDN.DanhSachBoSung.resources
+C:\Users\Admin\Downloads\QuanLiDoanVienTruongDHDN (1)\QuanLiDoanVienTruongDHDN\obj\Debug\QuanLiDoanVienTruongDHDN.FormDangNhap.resources
+C:\Users\Admin\Downloads\QuanLiDoanVienTruongDHDN (1)\QuanLiDoanVienTruongDHDN\obj\Debug\QuanLiDoanVienTruongDHDN.FormMain.resources
+C:\Users\Admin\Downloads\QuanLiDoanVienTruongDHDN (1)\QuanLiDoanVienTruongDHDN\obj\Debug\QuanLiDoanVienTruongDHDN.FormXepLoai.resources
+C:\Users\Admin\Downloads\QuanLiDoanVienTruongDHDN (1)\QuanLiDoanVienTruongDHDN\obj\Debug\QuanLiDoanVienTruongDHDN.Properties.Resources.resources
+C:\Users\Admin\Downloads\QuanLiDoanVienTruongDHDN (1)\QuanLiDoanVienTruongDHDN\obj\Debug\QuanLiDoanVienTruongDHDN.XeploaiDV.resources
+C:\Users\Admin\Downloads\QuanLiDoanVienTruongDHDN (1)\QuanLiDoanVienTruongDHDN\obj\Debug\QuanLiDoanVienTruongDHDN.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\QuanLiDoanVienTruongDHDN (1)\QuanLiDoanVienTruongDHDN\obj\Debug\QuanLiDoanVienTruongDHDN.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\QuanLiDoanVienTruongDHDN (1)\QuanLiDoanVienTruongDHDN\obj\Debug\QuanLiDoanVienTruongDHDN.exe
+C:\Users\Admin\Downloads\QuanLiDoanVienTruongDHDN (1)\QuanLiDoanVienTruongDHDN\obj\Debug\QuanLiDoanVienTruongDHDN.pdb
